@@ -79,7 +79,7 @@ export default function NouvellesAuth() {
     return (
       <div style={styles.loadingContainer}>
         <div style={styles.spinner}></div>
-        <p>Vérification de l'authentification...</p>
+        <p>Vérification de l&apos;authentification...</p>
       </div>
     );
   }
